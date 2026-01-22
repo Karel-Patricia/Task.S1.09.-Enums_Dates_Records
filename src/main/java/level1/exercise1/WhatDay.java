@@ -1,4 +1,4 @@
-package nivel1.exercise1;
+package level1.exercise1;
 
 public class WhatDay {
     public static void printDayType(Day day) {
